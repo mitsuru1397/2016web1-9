@@ -9,6 +9,8 @@ padding: 0;
 
 /*main*/
 body{
+  background-image: url(../IMG_2617.JPG), url(../windows.png)
+  background-repeat: no-repeat, no-repeat;
   background-color: lightgrey;
   margin: 5px;
 }
