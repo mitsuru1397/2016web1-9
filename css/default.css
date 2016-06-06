@@ -52,7 +52,7 @@ body{
 .box-grow             {color:white;   
                        box-shadow: 0px 0px 5px gray;            padding: 5px; margin:20px;}
 .box-inset_drop_shadow{box-shadow: 2px 2px 5px gray inset;      padding: 5px; margin:20px;} 
-.box-inset_grow       {box-shadow: 0px 0px 15px silber inset;   padding: 5px; margin:20px;}
+.box-inset_grow       {box-shadow: 0px 0px 15px silver inset;   padding: 5px; margin:20px;}
 .box-spread_shadow    {box-shadow: 0px 0px 0px 3px black;           padding: 5px; margin:20px;}
 .box-multi_shadow     {box-shadow: 0px 0px 0px 3px lightgrey inset,
                                    0px 0px 0px 3px black inset,
@@ -91,7 +91,7 @@ body{
   border: 10px;
   margin: 10px;
   border-style: solid;
-  border-color: blaxk;
+  border-color: black;
 }
 .content-box {box-sizing:content-box;}
 .border-box  {box-sizing:border-box;}
@@ -111,6 +111,4 @@ body{
 .skew-gradint{
   background-color: white;
   background: linear-gradient(135deg, orangered 0% white 50% orange 100%);
-}
-}
 }
