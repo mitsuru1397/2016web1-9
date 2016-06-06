@@ -122,8 +122,8 @@ body{
   border-radius: 5px;
   box-shadow: 1px 1px 3px dimgray;
   color: white;
-  font-weight: hold;
-  text-shadow: 1px 1px rada(0,0,0,0,4);
+  font-weight: bold;
+  text-shadow: 1px 1px 0 rgda(0,0,0,0,4);
   background-color: blue;
   background: linear-gradient(0deg, #00679A, #0051B4 50% #63B3D2 50% #BFE5F2 );
 }
