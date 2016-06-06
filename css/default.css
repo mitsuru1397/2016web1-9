@@ -44,25 +44,25 @@ body{
 /*角丸*/
 .border-radius-one{
   border-radius: 50px;
-  background-color: florawhite;
+  background-color: floralwhite;
   padding: 10px;
   margin: 5px;
 }
 .border-radius-two{
   border-radius: 5px 50px;
-  background-color: florawhite;
+  background-color: floralwhite;
   padding: 10px;
   margin: 5px;
 }
 .border-radius-three{
   border-radius: 5px 20px 40px;
-  background-color: florawhite;
+  background-color: floralwhite;
   padding: 10px;
   margin: 5px;
 }
 .border-radius-four{
   border-radius: 5px 10px 20px 40px;
-  background-color: florawhite;
+  background-color: floralwhite;
   padding: 10px;
   margin: 5px;
 }
